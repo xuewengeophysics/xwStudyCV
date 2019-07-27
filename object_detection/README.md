@@ -14,11 +14,8 @@
 - github(Pytorch): <https://github.com/wannabeOG/Mask-RCNN>
 - github(MXNet): <https://github.com/TuSimple/mx-maskrcnn>
 - github(Chainer): <https://github.com/DeNA/Chainer_Mask_R-CNN>
-- caffe-pr("Make R-CNN the Caffe detection example"): <https://github.com/BVLC/caffe/pull/482>
+- blog(Adrian Rosebrock)("Keras Mask R-CNN"): <https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn>
+- blog(Adrian Rosebrock)("Mask R-CNN with OpenCV"): <https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv>
+- blog(Satya Mallick)("Mask R-CNN Instance Segmentation with PyTorch"): <https://www.learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch>
+- blog(Satya Mallick)("Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)"): <https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c>
 
-
-- arxiv: https://arxiv.org/abs/1805.02152
-## 参考资料：
-
-1 [论文Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)<br>
-2 [代码Mask R-CNN](https://github.com/facebookresearch/Detectron)<br>
