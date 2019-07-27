@@ -1,5 +1,4 @@
-# xwStudyCV
-computer vision
+# Computer Vision
 
 0 参考资料
 =
