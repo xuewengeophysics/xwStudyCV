@@ -1,0 +1,5 @@
+# 参考资料
+
+## TensorRT<br>
+- [TensorRT(1)-介绍-使用-安装](https://arleyzhang.github.io/articles/7f4b25ce/)<br>
+- [TensorRT安装及使用教程](https://blog.csdn.net/zong596568821xp/article/details/86077553)<br>
