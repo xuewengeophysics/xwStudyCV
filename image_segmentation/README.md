@@ -17,3 +17,12 @@
 - github(Satya Mallick)("Mask R-CNN Instance Segmentation with PyTorch"): https://github.com/spmallick/learnopencv/tree/master/PyTorch-Mask-RCNN>
 - blog(Satya Mallick)("Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)"): <https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c>
 - github(Satya Mallick)("Mask-RCNN"): <https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN>
+
+
+## HR-Net
+
+**High-Resolution Representations for Labeling Pixels and Regions**
+
+- intro: Ke Sun, Yang Zhao, Borui Jiang, Tianheng Cheng, Bin Xiao, Dong Liu, Yadong Mu, Xinggang Wang, Wenyu Liu, Jingdong Wang, 2019
+- arxiv: <https://arxiv.org/abs/1904.04514>
+- github(PyTorch): <https://github.com/HRNet/HRNet-Semantic-Segmentation>
