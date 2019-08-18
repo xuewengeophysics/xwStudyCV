@@ -351,6 +351,16 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - arxiv:https://arxiv.org/abs/1805.08503
 - datasets:https://gitlab.com/omnidetector/omnidetector
 
+**blogs**
+
+- YOLOv2论文笔记:https://blog.csdn.net/jesse_mx/article/details/53925356
+- 重温YOLOv2:https://zhuanlan.zhihu.com/p/40659490
+- 目标检测|YOLOv2原理与实现(附YOLOv3):https://zhuanlan.zhihu.com/p/35325884
+- YOLO升级版YOLOv2和YOLO9000解析:https://zhuanlan.zhihu.com/p/25052190
+- YOLOv2之总结篇(linux+windows):https://blog.csdn.net/qq_14845119/article/details/53589282
+- YOLO系列之YOLOv2:https://blog.csdn.net/leviopku/article/details/82588959
+- 深度学习算法之YOLOv2:https://blog.csdn.net/oppo62258801/article/details/76796717
+
 ## YOLOv3
 
 **YOLOv3: An Incremental Improvement**
