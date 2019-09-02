@@ -1,16 +1,16 @@
 /*
-ͼ��ɫ�ʿռ�ת��
+图像色彩空间转换
 
-֪ʶ�㣺
-1. ɫ�ʿռ�ת������- cvtColor(����ͼ, ���ͼ, ��ɫӳ������, ��ɫӳ������)
-COLOR_BGR2GRAY = 6 ��ɫ���Ҷ�
-COLOR_GRAY2BGR = 8 �Ҷȵ���ɫ
-COLOR_BGR2HSV = 40 BGR��HSV
-COLOR_HSV2BGR = 54 HSV��BGR
+知识点：
+1. 色彩空间转换函数- cvtColor(输入图, 输出图, 颜色映射类型, 颜色映射类型)
+COLOR_BGR2GRAY = 6 彩色到灰度
+COLOR_GRAY2BGR = 8 灰度到彩色
+COLOR_BGR2HSV = 40 BGR到HSV
+COLOR_HSV2BGR = 54 HSV到BGR
 
-2. ͼ�񱣴� - imwrite
-��һ��������ͼ�񱣴�·��
-�ڶ���������ͼ���ڴ����
+2. 图像保存 - imwrite
+第一个参数是图像保存路径
+第二个参数是图像内存对象
 */
 
 #include <opencv2/opencv.hpp>
@@ -19,7 +19,7 @@ COLOR_HSV2BGR = 54 HSV��BGR
 using namespace cv;
 using namespace std;
 
-int main(int argc, char** argv) {
+int main(int artc, char** argv) {
 	Mat src = imread("D:/OpenCV/OpenCV4JZG/140/images/wenxue.png");
 
 	if (src.empty()) {
