@@ -1,8 +1,8 @@
 /*
-Í¼Ïñ¶ÔÏóµÄ´´½¨Óë¸³Öµ
+å›¾åƒå¯¹è±¡çš„åˆ›å»ºä¸èµ‹å€¼
 
-ÖªÊ¶µã£ºOpenCVÖĞÍ¼Ïñ¶ÔÏó´´½¨Óë¸³Öµ
-C++ÖĞMat¶ÔÏóÓë´´½¨
+çŸ¥è¯†ç‚¹ï¼šOpenCVä¸­å›¾åƒå¯¹è±¡åˆ›å»ºä¸èµ‹å€¼
+C++ä¸­Matå¯¹è±¡ä¸åˆ›å»º
 */
 
 #include <opencv2/opencv.hpp>
@@ -11,10 +11,12 @@ C++ÖĞMat¶ÔÏóÓë´´½¨
 using namespace cv;
 using namespace std;
 
-int main(int artc, char** argv) {
+int main(int artc, char** argv)
+{
 	Mat src = imread("D:/OpenCV/OpenCV4JZG/140/images/wenxue.png"); 
 
-	if (src.empty()) {
+	if (src.empty())
+	{
 		cout << "could not load image..." << endl;
 		return -1;
 	}
@@ -22,19 +24,19 @@ int main(int artc, char** argv) {
 	namedWindow("input", WINDOW_AUTOSIZE);
 	imshow("input", src);
 
-	// ¿ËÂ¡
+	// å…‹éš†
 	Mat m1 = src.clone();
 
-	// ¸´ÖÆ
+	// å¤åˆ¶
 	Mat m2;
 	src.copyTo(m2);
 
-	// ¸³Öµ·¨
+	// èµ‹å€¼æ³•
 	Mat m3 = src;
 
-	// ´´½¨¿Õ°×Í¼Ïñ
+	// åˆ›å»ºç©ºç™½å›¾åƒ
 	Mat m4 = Mat::zeros(src.size(), src.type());
-	Mat m5 = Mat::zeros(Size(512, 512), CV_8UC3);  //8U´ú±íUnsigned 8bits£¬C3´ú±íÍ¨µÀÊı£»»¹ÓĞ32FC3¡¢64FC3£»
+	Mat m5 = Mat::zeros(Size(512, 512), CV_8UC3);  //8Uä»£è¡¨Unsigned 8bitsï¼ŒC3ä»£è¡¨é€šé“æ•°ï¼›è¿˜æœ‰32FC3ã€64FC3ï¼›
 	Mat m6 = Mat::ones(Size(512, 512), CV_8UC3);
 
 	Mat kernel = (Mat_<char>(3, 3) << 0, -1, 0, -1, 5, -1, 0, -1, 0);
