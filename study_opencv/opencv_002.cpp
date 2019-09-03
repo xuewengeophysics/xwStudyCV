@@ -19,10 +19,12 @@ COLOR_HSV2BGR = 54 HSV到BGR
 using namespace cv;
 using namespace std;
 
-int main(int artc, char** argv) {
+int main(int artc, char** argv)
+{
 	Mat src = imread("D:/OpenCV/OpenCV4JZG/140/images/wenxue.png");
 
-	if (src.empty()) {
+	if (src.empty())
+	{
 		cout << "could not load image..." << endl;
 		return -1;
 	}
