@@ -9,3 +9,139 @@
 - [002-图像色彩空间转换](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_002.cpp)<br>
 - [003-图像对象的创建与赋值](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_003.cpp)<br>
 - [004-图像像素的读写操作](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_004.cpp)<br>
+- [005-图像像素的算术操作](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_005.cpp)<br>
+- [006-LUT的作用与用法](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_006.cpp)<br>
+- [007-图像像素的逻辑操作](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_007.cpp)<br>
+- [008-通道分离与合并](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_008.cpp)<br>
+- [009-图像色彩空间转换](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_009.cpp)<br>
+- [010-图像像素值统计](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_010.cpp)<br>
+- [011-像素归一化](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_011.cpp)<br>
+- [012-视频文件的读写](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_012.cpp)<br>
+- [013-图像翻转](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_013.cpp)<br>
+- [014-图像插值](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_014.cpp)<br>
+- [015-几何形状绘制](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_015.cpp)<br>
+- [016-图像ROI与ROI操作](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_016.cpp)<br>
+- [017图像直方图](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_017.cpp)<br>
+- [018-图像直方图均衡化](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_018.cpp)<br>
+- [019-图像直方图比较](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_019.cpp)<br>
+- [020-图像直方图反向投影](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_020.cpp)<br>
+- [021-图像卷积操作](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_021.cpp)<br>
+- [022-图像均值与高斯模糊](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_022.cpp)<br>
+- [023-中值模糊](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_023.cpp)<br>
+- [024-图像噪声](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_024.cpp)<br>
+- [025-图像去噪声](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_025.cpp)<br>
+- [026-高斯双边模糊](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_026.cpp)<br>
+- [027-高斯双边模糊](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_027.cpp)<br>
+- [028-图像积分图算法](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_028.cpp)<br>
+- [029-快速的图像边缘滤波算法](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_029.cpp)<br>
+- [030-OpenCV自定义的滤波器](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_030.cpp)<br>
+- [031-图像梯度–Sobel算子](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_031.cpp)<br>
+- [032-图像梯度–更多梯度算子](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_032.cpp)<br>
+- [033-图像梯度–拉普拉斯算子](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_033.cpp)<br>
+- [034-图像锐化](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_034.cpp)<br>
+- [035-USM锐化增强算法](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_035.cpp)<br>
+- [036-Canny边缘检测器](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_036.cpp)<br>
+- [037-图像金字塔](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_037.cpp)<br>
+- [038-拉普拉斯金字塔](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_038.cpp)<br>
+- [039-图像模板匹配](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_039.cpp)<br>
+- [040-二值图像介绍](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_040.cpp)<br>
+- [041-OpenCV中的基本阈值操作](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_041.cpp)<br>
+- [042-OTSU二值寻找算法](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_042.cpp)<br>
+- [043-TRIANGLE二值寻找算法](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_043.cpp)<br>
+- [044-自适应阈值算法](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_044.cpp)<br>
+- [045-图像二值化与去噪](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_045.cpp)<br>
+- [046-二值图像联通组件寻找](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_046.cpp)<br>
+- [047-二值图像连通组件状态统计](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_047.cpp)<br>
+- [048-二值图像分析—轮廓发现](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_048.cpp)<br>
+- [049-二值图像分析—轮廓外接矩形](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_049.cpp)<br>
+- [050-二值图像分析 – 矩形面积与弧长](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_050.cpp)<br>
+- [051-二值图像分析—使用轮廓逼近](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_051.cpp)<br>
+- [052-二值图像分析—用几何矩计算轮廓中心与横纵比过滤](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_052.cpp)<br>
+- [053-二值图像分析—Hu矩实现轮廓匹配](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_053.cpp)<br>
+- [054-二值图像分析—对轮廓圆与椭圆拟合](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_054.cpp)<br>
+- [055-二值图像分析—凸包检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_055.cpp)<br>
+- [056-二值图像分析–直线拟合与极值点寻找](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_056.cpp)<br>
+- [057-二值图像分析—点多边形测试](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_057.cpp)<br>
+- [058-二值图像分析—寻找最大内接圆](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_058.cpp)<br>
+- [059-二值图像分析—霍夫直线检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_059.cpp)<br>
+- [060-二值图像分析—霍夫直线检测二](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_060.cpp)<br>
+- [061-二值图像分析—霍夫圆检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_061.cpp)<br>
+- [062-图像形态学—膨胀与腐蚀](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_062.cpp)<br>
+- [063-图像形态学—膨胀与腐蚀](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_063.cpp)<br>
+- [064-图像形态学—开操作](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_064.cpp)<br>
+- [065-图像形态学—闭操作](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_065.cpp)<br>
+- [066-图像形态学—开闭操作时候结构元素应用演示](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_066.cpp)<br>
+- [067-图像形态学—顶帽操作](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_067.cpp)<br>
+- [068-图像形态学—黑帽操作](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_068.cpp)<br>
+- [069-图像形态学—图像梯度](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_069.cpp)<br>
+- [070-形态学应用—用基本梯度实现轮廓分析](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_070.cpp)<br>
+- [071-形态学操作—击中击不中](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_071.cpp)<br>
+- [072-二值图像分析—缺陷检测一](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_072.cpp)<br>
+- [073-二值图像分析—缺陷检测二](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_073.cpp)<br>
+- [074-二值图像分析—提取最大轮廓与编码关键点](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_074.cpp)<br>
+- [075-图像去水印/修复](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_075.cpp)<br>
+- [076-图像透视变换应用](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_076.cpp)<br>
+- [077-视频读写与处理](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_077.cpp)<br>
+- [078-识别与跟踪视频中的特定颜色对象](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_078.cpp)<br>
+- [079-视频分析—背景/前景提取](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_079.cpp)<br>
+- [080-视频分析—背景消除与前景ROI提取](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_080.cpp)<br>
+- [081-角点检测—Harris角点检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_081.cpp)<br>
+- [082-角点检测—shi-tomas角点检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_082.cpp)<br>
+- [083-角点检测—亚像素级别角点检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_083.cpp)<br>
+- [084-视频分析—移动对象的KLT光流跟踪算法](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_084.cpp)<br>
+- [085-视频分析—KLT光流跟踪 02](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_085.cpp)<br>
+- [086-视频分析—稠密光流分析](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_086.cpp)<br>
+- [087-视频分析—基于帧差法实现移动对象分析](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_087.cpp)<br>
+- [088-视频分析—基于均值迁移的对象移动分析](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_088.cpp)<br>
+- [089-视频分析—基于连续自适应均值迁移的对象移动分析](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_089.cpp)<br>
+- [090-视频分析—对象移动轨迹绘制](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_090.cpp)<br>
+- [091-对象检测—HAAR级联检测器使用](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_091.cpp)<br>
+- [092-对象检测—HAAR特征介绍](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_092.cpp)<br>
+- [093-对象检测—LBP特征介绍](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_093.cpp)<br>
+- [094-ORB FAST特征关键点检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_094.cpp)<br>
+- [095-BRIEF特征描述子 匹配](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_095.cpp)<br>
+- [096-描述子匹配](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_096.cpp)<br>
+- [097-基于描述子匹配的已知对象定位](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_097.cpp)<br>
+- [098-SIFT特征提取—关键点提取](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_098.cpp)<br>
+- [099-SIFT特征提取—描述子生成](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_099.cpp)<br>
+- [100-HOG特征与行人检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_100.cpp)<br>
+- [101-HOG特征描述子—多尺度检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_101.cpp)<br>
+- [102-HOG特征描述子—提取描述子](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_102.cpp)<br>
+- [103-HOG特征描述子—使用描述子特征生成样本数据](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_103.cpp)<br>
+- [104-SVM线性分类器](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_104.cpp)<br>
+- [105-HOG特征描述子—使用HOG进行对象检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_105.cpp)<br>
+- [106-AKAZE特征与描述子](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_106.cpp)<br>
+- [107-Brisk特征提取与描述子匹配](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_107.cpp)<br>
+- [108-特征提取之关键点检测—GFTTDetector](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_108.cpp)<br>
+- [109-BLOB特征分析—simpleblobdetector使用](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_109.cpp)<br>
+- [110-KMeans 数据分类](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_110.cpp)<br>
+- [111-KMeans图像分割](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_111.cpp)<br>
+- [112-KMeans图像分割—背景替换](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_112.cpp)<br>
+- [113-KMeans图像分割—主色彩提取](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_113.cpp)<br>
+- [114-KNN算法介绍](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_114.cpp)<br>
+- [115-KNN算法应用](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_115.cpp)<br>
+- [116-决策树算法 介绍与使用](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_116.cpp)<br>
+- [117-图像均值漂移分割](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_117.cpp)<br>
+- [118-Grabcut图像分割](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_118.cpp)<br>
+- [119-Grabcut图像分割—背景替换](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_119.cpp)<br>
+- [120-二维码检测与识别](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_120.cpp)<br>
+- [121-OpenCV DNN 获取导入模型各层信息](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_121.cpp)<br>
+- [122-OpenCV DNN 实现图像分类](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_122.cpp)<br>
+- [123-OpenCV DNN 为模型运行设置目标设备与计算后台](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_123.cpp)<br>
+- [124-OpenCV DNN 基于SSD实现对象检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_124.cpp)<br>
+- [125-OpenCV DNN 基于SSD实现实时视频检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_125.cpp)<br>
+- [126-OpenCV DNN 基于残差网络的人脸检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_126.cpp)<br>
+- [127-OpenCV DNN 基于残差网络的视频人脸检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_127.cpp)<br>
+- [128-OpenCV DNN 直接调用tensorflow的导出模型](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_128.cpp)<br>
+- [129-OpenCV DNN 调用openpose模型实现姿态评估](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_129.cpp)<br>
+- [130-OpenCV DNN 支持YOLO对象检测网络运行](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_130.cpp)<br>
+- [131-OpenCV DNN 支持YOLOv3-tiny版本实时对象检测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_131.cpp)<br>
+- [132-OpenCV DNN单张与多张图像的推断](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_132.cpp)<br>
+- [133-OpenCV DNN 图像颜色化模型使用](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_133.cpp)<br>
+- [134-OpenCV DNN ENet实现图像分割](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_134.cpp)<br>
+- [135-OpenCV DNN 实时快速的图像风格迁移](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_135.cpp)<br>
+- [136-OpenCV DNN解析网络输出结果](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_136.cpp)<br>
+- [137-OpenCV DNN 实现性别与年龄预测](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_137.cpp)<br>
+- [138-OpenCV DNN 使用OpenVINO加速](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_138.cpp)<br>
+- [139-案例：识别0～9印刷体数字 —Part1](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_139.cpp)<br>
+- [140-案例：识别0～9印刷体数字 —Part2](https://github.com/xuewengeophysics/xwStudyCV/blob/master/study_opencv/opencv_140.cpp)<br>
