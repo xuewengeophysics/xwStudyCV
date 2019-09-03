@@ -1,9 +1,9 @@
 /*
-Í¼Ïñ¶ÁÈ¡ÓëÏÔÊ¾
+å›¾åƒè¯»å–ä¸æ˜¾ç¤º
 
-ÖªÊ¶µã£º
-¶ÁÈ¡Í¼Ïñ - imread
-ÏÔÊ¾Í¼Ïñ - imshow
+çŸ¥è¯†ç‚¹ï¼š
+è¯»å–å›¾åƒ - imread
+æ˜¾ç¤ºå›¾åƒ - imshow
 */
 
 #include <opencv2/opencv.hpp>
@@ -12,11 +12,13 @@
 using namespace cv;
 using namespace std;
 
-int main(int artc, char** argv) {
-	//Mat src = imread("D:\\OpenCV\\OpenCV4JZG\\140\\images\\wenxue.png"); 
-	Mat src = imread("D:\\OpenCV\\OpenCV4JZG\\140\\images\\wenxue.png", IMREAD_GRAYSCALE);
+int main(int artc, char** argv)
+{
+	//Mat src = imread("D:/OpenCV/OpenCV4JZG/140/images/wenxue.png"); 
+	Mat src = imread("D:/OpenCV/OpenCV4JZG/140/images/wenxue.png", IMREAD_GRAYSCALE);
 
-	if (src.empty()) {
+	if (src.empty())
+	{
 		cout << "could not load image..." << endl;
 		return -1;
 	}
