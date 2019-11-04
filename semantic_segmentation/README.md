@@ -7,6 +7,11 @@
 - intro: why, when, and how these techniques perform in various challenges
 - arXiv: <https://arxiv.org/pdf/1907.06119>
 
+**A survey on deep learning techniques for image and video semantic segmentation**
+
+- intro: in-depth review of deep learning methods for semantic segmentation applied to various areas
+- arXiv: <https://www.sciencedirect.com/science/article/abs/pii/S1568494618302813>
+
 **A Review on Deep Learning Techniques Applied to Semantic Segmentation**
 
 - intro：review on deep learning methods for semantic segmentation applied to various application areas
