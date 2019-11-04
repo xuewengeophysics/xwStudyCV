@@ -1,5 +1,19 @@
 # semantic_segmentation
 
+# Survey
+
+**Understanding Deep Learning Techniques for Image Segmentation**
+
+- intro: why, when, and how these techniques perform in various challenges
+- arXiv: <https://arxiv.org/pdf/1907.06119>
+
+**A Review on Deep Learning Techniques Applied to Semantic Segmentation**
+
+- intro：review on deep learning methods for semantic segmentation applied to various application areas
+
+- arXiv：<https://arxiv.org/abs/1704.06857>
+
+
 ## Mask R-CNN
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
