@@ -42,6 +42,7 @@ This is a list of awesome articles about object detection. If you want to read t
 - 2018
 - 2019
 - Other
+- FCOS
 
 Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 
@@ -1131,9 +1132,17 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - arxiv: https://arxiv.org/abs/1808.05560
 - youtube: https://youtu.be/xCYD-tYudN0
 
+## FCOS
+
+**FCOS: Fully Convolutional One-Stage Object Detection**
+
+- arxiv: https://arxiv.org/abs/1904.01355
+- github: https://github.com/tianzhi0549/FCOS/
+- github: https://github.com/yqyao/FCOS_PLUS
+
 # Detection Toolbox
 
-- [Detectron(FAIR)](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including [Mask R-CNN](https://arxiv.org/abs/1703.06870). It is written in Python and powered by the [Caffe2](https://github.com/caffe2/caffe2) deep learning framework.
+- [Detectron2(FAIR)](https://github.com/facebookresearch/Detectron2): Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, [Detectron](https://github.com/facebookresearch/Detectron), and it originates from [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark).
 
 - [maskrcnn-benchmark(FAIR)](https://github.com/facebookresearch/maskrcnn-benchmark): Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 
