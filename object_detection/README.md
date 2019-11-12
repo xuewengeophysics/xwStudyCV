@@ -1144,6 +1144,11 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 - [Detectron2(FAIR)](https://github.com/facebookresearch/Detectron2): Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, [Detectron](https://github.com/facebookresearch/Detectron), and it originates from [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark).
 
+- [mmdetection(SenseTime&CUHK)](https://github.com/open-mmlab/mmdetection): mmdetection is an open source object detection toolbox based on PyTorch. It is a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
+
+- [gluon-cv(mxnet)](https://github.com/dmlc/gluon-cv): GluonCV provides implementations of state-of-the-art (SOTA) deep learning algorithms in computer vision. It aims to help engineers, researchers, and students quickly prototype products, validate new ideas and learn computer vision.(https://gluon-cv.mxnet.io/)
+
 - [maskrcnn-benchmark(FAIR)](https://github.com/facebookresearch/maskrcnn-benchmark): Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 
-- [mmdetection(SenseTime&CUHK)](https://github.com/open-mmlab/mmdetection): mmdetection is an open source object detection toolbox based on PyTorch. It is a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
+- [Detectron(FAIR)](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including [Mask R-CNN](https://arxiv.org/abs/1703.06870). It is written in Python and powered by the [Caffe2](https://github.com/caffe2/caffe2) deep learning framework.
+
