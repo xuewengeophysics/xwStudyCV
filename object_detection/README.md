@@ -377,6 +377,7 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - paper:https://pjreddie.com/media/files/papers/YOLOv3.pdf
 - code: <https://pjreddie.com/darknet/yolo/>
 - github(Official):https://github.com/pjreddie/darknet
+- code(amusi):https://github.com/amusi/YOLO-Reproduce-Summary
 - github:https://github.com/mystic123/tensorflow-yolo-v3
 - github:https://github.com/experiencor/keras-yolo3
 - github:https://github.com/qqwweee/keras-yolo3
