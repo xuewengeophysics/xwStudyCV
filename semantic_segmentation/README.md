@@ -36,8 +36,8 @@
 - arxiv: <http://arxiv.org/abs/1703.06870>
 - github(Pytorch): https://github.com/facebookresearch/Detectron2>
 - github(Pytorch): <https://github.com/facebookresearch/maskrcnn-benchmark>
-- github(Caffe2): <https://github.com/facebookresearch/Detectron>
 - github(Keras): <https://github.com/matterport/Mask_RCNN>
+- github(Caffe2): <https://github.com/facebookresearch/Detectron>
 - github(Pytorch): <https://github.com/wannabeOG/Mask-RCNN>
 - github(MXNet): <https://github.com/TuSimple/mx-maskrcnn>
 - github(Chainer): <https://github.com/DeNA/Chainer_Mask_R-CNN>
