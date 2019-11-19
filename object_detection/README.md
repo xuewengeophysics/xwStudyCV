@@ -13,9 +13,12 @@ This is a list of awesome articles about object detection. If you want to read t
 - Fast R-CNN
 - Faster R-CNN
 - Mask R-CNN
+- RetinaNet
+- FPN
+- SPP-Net
 - Light-Head R-CNN
 - Cascade R-CNN
-- SPP-Net
+- R-FCN
 - YOLO
 - YOLOv2
 - YOLOv3
@@ -27,10 +30,7 @@ This is a list of awesome articles about object detection. If you want to read t
 - MDSSD
 - Pelee
 - Fire SSD
-- R-FCN
-- FPN
 - DSOD
-- RetinaNet
 - MegDet
 - RefineNet
 - DetNet
@@ -44,7 +44,6 @@ This is a list of awesome articles about object detection. If you want to read t
 - 2018
 - 2019
 - Other
-- FCOS
 
 Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 
@@ -74,7 +73,6 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 ## FCOS
 
 **FCOS: Fully Convolutional One-Stage Object Detection**
-
 - arxiv: https://arxiv.org/abs/1904.01355
 - github: https://github.com/tianzhi0549/FCOS/
 - github: https://github.com/yqyao/FCOS_PLUS
@@ -83,7 +81,6 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 ## CornerNet
 
 **CornerNet: Detecting Objects as Paired Keypoints**
-
 - intro: ECCV 2018
 - arXiv: https://arxiv.org/abs/1808.01244
 - github: <https://github.com/umich-vl/CornerNet>
@@ -92,7 +89,6 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 ## R-CNN
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
-
 - intro: R-CNN
 - arxiv: <http://arxiv.org/abs/1311.2524>
 - supp: <http://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr-supp.pdf>
@@ -105,7 +101,6 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 ## Fast R-CNN
 
 **Fast R-CNN**
-
 - arxiv: <http://arxiv.org/abs/1504.08083>
 - slides: <http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf>
 - github: <https://github.com/rbgirshick/fast-rcnn>
@@ -119,7 +114,6 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github: <https://github.com/zplizzi/tensorflow-fast-rcnn>
 
 **A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection**
-
 - intro: CVPR 2017
 - arxiv: <https://arxiv.org/abs/1704.03414>
 - paper: <http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf>
@@ -128,7 +122,6 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 ## Faster R-CNN
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
-
 - intro: NIPS 2015
 - arxiv: <http://arxiv.org/abs/1506.01497>
 - gitxiv: <http://www.gitxiv.com/posts/8pfpcvefDYn2gSgXk/faster-r-cnn-towards-real-time-object-detection-with-region>
@@ -148,42 +141,35 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github(C++): <https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev>
 
 **R-CNN minus R**
-
 - intro: BMVC 2015
 - arxiv: <http://arxiv.org/abs/1506.06981>
 
 **Faster R-CNN in MXNet with distributed implementation and data parallelization**
-
 - github: <https://github.com/dmlc/mxnet/tree/master/example/rcnn>
 
 **Contextual Priming and Feedback for Faster R-CNN**
-
 - intro: ECCV 2016. Carnegie Mellon University
 - paper: <http://abhinavsh.info/context_priming_feedback.pdf>
 - poster: <http://www.eccv2016.org/files/posters/P-1A-20.pdf>
 
 **An Implementation of Faster RCNN with Study for Region Sampling**
-
 - intro: Technical Report, 3 pages. CMU
 - arxiv: <https://arxiv.org/abs/1702.02138>
 - github: <https://github.com/endernewton/tf-faster-rcnn>
 - github: https://github.com/ruotianluo/pytorch-faster-rcnn
 
 **Interpretable R-CNN**
-
 - intro: North Carolina State University & Alibaba
 - keywords: AND-OR Graph (AOG)
 - arxiv: <https://arxiv.org/abs/1711.05226>
 
 **Domain Adaptive Faster R-CNN for Object Detection in the Wild**
-
 - intro: CVPR 2018. ETH Zurich & ESAT/PSI
 - arxiv: <https://arxiv.org/abs/1803.03243>
 
 ## Mask R-CNN
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
-
 - intro: Kaiming He, Georgia Gkioxari, Piotr Dollar, Ross Girshick, Facebook AI Research(FAIR), 2018
 - arxiv: <http://arxiv.org/abs/1703.06870>
 - github(Pytorch): https://github.com/facebookresearch/Detectron2>
@@ -200,10 +186,30 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - blog(Satya Mallick)("Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)"): <https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c>
 - github(Satya Mallick)("Mask-RCNN"): <https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN>
 
+## RetinaNet
+
+**Focal Loss for Dense Object Detection**
+- intro: ICCV 2017 Best student paper award. Facebook AI Research
+- keywords: RetinaNet
+- arxiv: <https://arxiv.org/abs/1708.02002>
+
+## FPN
+
+**Feature Pyramid Networks for Object Detection**
+- intro: Facebook AI Research
+- arxiv: <https://arxiv.org/abs/1612.03144>
+
+## SPP-Net
+
+**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
+- intro: ECCV 2014 / TPAMI 2015
+- arxiv: <http://arxiv.org/abs/1406.4729>
+- github: <https://github.com/ShaoqingRen/SPP_net>
+- notes: <http://zhangliliang.com/2014/09/13/paper-note-sppnet/>
+
 ## Light-Head R-CNN
 
 **Light-Head R-CNN: In Defense of Two-Stage Object Detector**
-
 - intro: Tsinghua University & Megvii Inc
 - arxiv: <https://arxiv.org/abs/1711.07264>
 - github(offical): https://github.com/zengarden/light_head_rcnn
@@ -212,18 +218,8 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 ## Cascade R-CNN
 
 **Cascade R-CNN: Delving into High Quality Object Detection**
-
 - arxiv: <https://arxiv.org/abs/1712.00726>
 - github: <https://github.com/zhaoweicai/cascade-rcnn>
-
-## SPP-Net
-
-**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
-
-- intro: ECCV 2014 / TPAMI 2015
-- arxiv: <http://arxiv.org/abs/1406.4729>
-- github: <https://github.com/ShaoqingRen/SPP_net>
-- notes: <http://zhangliliang.com/2014/09/13/paper-note-sppnet/>
 
 **DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection**
 
@@ -531,11 +527,6 @@ https://github.com/Robert-JunWang/Pelee
 
 ## FPN
 
-**Feature Pyramid Networks for Object Detection**
-
-- intro: Facebook AI Research
-- arxiv: <https://arxiv.org/abs/1612.03144>
-
 **Action-Driven Object Detection with Top-Down Visual Attentions**
 
 - arxiv: <https://arxiv.org/abs/1612.06704>
@@ -676,12 +667,6 @@ https://github.com/Robert-JunWang/Pelee
 - arXiv: https://arxiv.org/abs/1809.09294
 
 ## RetinaNet
-
-**Focal Loss for Dense Object Detection**
-
-- intro: ICCV 2017 Best student paper award. Facebook AI Research
-- keywords: RetinaNet
-- arxiv: <https://arxiv.org/abs/1708.02002>
 
 **CoupleNet: Coupling Global Structure with Local Parts for Object Detection**
 
