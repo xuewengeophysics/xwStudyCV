@@ -19,6 +19,15 @@
 - arXiv：<https://arxiv.org/abs/1704.06857>
 
 
+## CenterMask
+
+**CenterMask:Real-Time Anchor-Free Instance Segmentation**
+
+- intro: Youngwan Lee, Jongyoul Park, ETRI, 2018
+- arxiv: <https://arxiv.org/pdf/1911.06667>
+- github(待原作者开源): <https://github.com/youngwanLEE>
+- github(Pytorch): <https://github.com/CaoWGG/Mask-CenterNet>
+
 ## Mask R-CNN
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
