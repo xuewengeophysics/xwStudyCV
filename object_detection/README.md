@@ -76,6 +76,15 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - intro: Submitted to IJCV 2018
 - arXiv: https://arxiv.org/abs/1809.02165
 
+
+## FCOS
+
+**FCOS: Fully Convolutional One-Stage Object Detection**
+
+- arxiv: https://arxiv.org/abs/1904.01355
+- github: https://github.com/tianzhi0549/FCOS/
+- github: https://github.com/yqyao/FCOS_PLUS
+
 ## R-CNN
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation**
@@ -1132,14 +1141,6 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 - arxiv: https://arxiv.org/abs/1808.05560
 - youtube: https://youtu.be/xCYD-tYudN0
-
-## FCOS
-
-**FCOS: Fully Convolutional One-Stage Object Detection**
-
-- arxiv: https://arxiv.org/abs/1904.01355
-- github: https://github.com/tianzhi0549/FCOS/
-- github: https://github.com/yqyao/FCOS_PLUS
 
 # Detection Toolbox
 
