@@ -9,13 +9,13 @@ This is a list of awesome articles about object detection. If you want to read t
 - FCOS
 - ConterNet
 - CornerNet
-- R-CNN
-- Fast R-CNN
-- Faster R-CNN
 - Mask R-CNN
 - RetinaNet
 - FPN
+- Faster R-CNN
 - SPP-Net
+- Fast R-CNN
+- R-CNN
 - Light-Head R-CNN
 - Cascade R-CNN
 - R-FCN
@@ -94,36 +94,34 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - arXiv: https://arxiv.org/abs/1808.01244
 - github: <https://github.com/princeton-vl/CornerNet>
 
-## R-CNN
-**Rich feature hierarchies for accurate object detection and semantic segmentation**
-- intro: R-CNN
-- arxiv: <http://arxiv.org/abs/1311.2524>
-- supp: <http://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr-supp.pdf>
-- slides: <http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf>
-- slides: <http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf>
-- github: <https://github.com/rbgirshick/rcnn>
-- notes: <http://zhangliliang.com/2014/07/23/paper-note-rcnn/>
-- caffe-pr("Make R-CNN the Caffe detection example"): <https://github.com/BVLC/caffe/pull/482>
+## Mask R-CNN
+**Mask R-CNN**
+- intro: Kaiming He, Georgia Gkioxari, Piotr Dollar, Ross Girshick, Facebook AI Research(FAIR), 2018
+- arxiv: <http://arxiv.org/abs/1703.06870>
+- github(Pytorch): https://github.com/facebookresearch/Detectron2>
+- github(Pytorch): <https://github.com/facebookresearch/maskrcnn-benchmark>
+- github(Caffe2): <https://github.com/facebookresearch/Detectron>
+- github(Keras): <https://github.com/matterport/Mask_RCNN>
+- github(Pytorch): <https://github.com/wannabeOG/Mask-RCNN>
+- github(MXNet): <https://github.com/TuSimple/mx-maskrcnn>
+- github(Chainer): <https://github.com/DeNA/Chainer_Mask_R-CNN>
+- blog(Adrian Rosebrock)("Keras Mask R-CNN"): <https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn>
+- blog(Adrian Rosebrock)("Mask R-CNN with OpenCV"): <https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv>
+- blog(Satya Mallick)("Mask R-CNN Instance Segmentation with PyTorch"): <https://www.learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch>
+- github(Satya Mallick)("Mask R-CNN Instance Segmentation with PyTorch"): https://github.com/spmallick/learnopencv/tree/master/PyTorch-Mask-RCNN>
+- blog(Satya Mallick)("Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)"): <https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c>
+- github(Satya Mallick)("Mask-RCNN"): <https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN>
 
-## Fast R-CNN
-**Fast R-CNN**
-- arxiv: <http://arxiv.org/abs/1504.08083>
-- slides: <http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf>
-- github: <https://github.com/rbgirshick/fast-rcnn>
-- github(COCO-branch): <https://github.com/rbgirshick/fast-rcnn/tree/coco>
-- webcam demo: <https://github.com/rbgirshick/fast-rcnn/pull/29>
-- notes: <http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/>
-- notes: <http://blog.csdn.net/linj_m/article/details/48930179>
-- github("Fast R-CNN in MXNet"): <https://github.com/precedenceguo/mx-rcnn>
-- github: <https://github.com/mahyarnajibi/fast-rcnn-torch>
-- github: <https://github.com/apple2373/chainer-simple-fast-rnn>
-- github: <https://github.com/zplizzi/tensorflow-fast-rcnn>
+## RetinaNet
+**Focal Loss for Dense Object Detection**
+- intro: ICCV 2017 Best student paper award. Facebook AI Research
+- keywords: RetinaNet
+- arxiv: <https://arxiv.org/abs/1708.02002>
 
-**A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection**
-- intro: CVPR 2017
-- arxiv: <https://arxiv.org/abs/1704.03414>
-- paper: <http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf>
-- github(Caffe): <https://github.com/xiaolonw/adversarial-frcnn>
+## FPN
+**Feature Pyramid Networks for Object Detection**
+- intro: Facebook AI Research
+- arxiv: <https://arxiv.org/abs/1612.03144>
 
 ## Faster R-CNN
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
@@ -172,41 +170,43 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - intro: CVPR 2018. ETH Zurich & ESAT/PSI
 - arxiv: <https://arxiv.org/abs/1803.03243>
 
-## Mask R-CNN
-**Mask R-CNN**
-- intro: Kaiming He, Georgia Gkioxari, Piotr Dollar, Ross Girshick, Facebook AI Research(FAIR), 2018
-- arxiv: <http://arxiv.org/abs/1703.06870>
-- github(Pytorch): https://github.com/facebookresearch/Detectron2>
-- github(Pytorch): <https://github.com/facebookresearch/maskrcnn-benchmark>
-- github(Caffe2): <https://github.com/facebookresearch/Detectron>
-- github(Keras): <https://github.com/matterport/Mask_RCNN>
-- github(Pytorch): <https://github.com/wannabeOG/Mask-RCNN>
-- github(MXNet): <https://github.com/TuSimple/mx-maskrcnn>
-- github(Chainer): <https://github.com/DeNA/Chainer_Mask_R-CNN>
-- blog(Adrian Rosebrock)("Keras Mask R-CNN"): <https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn>
-- blog(Adrian Rosebrock)("Mask R-CNN with OpenCV"): <https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv>
-- blog(Satya Mallick)("Mask R-CNN Instance Segmentation with PyTorch"): <https://www.learnopencv.com/mask-r-cnn-instance-segmentation-with-pytorch>
-- github(Satya Mallick)("Mask R-CNN Instance Segmentation with PyTorch"): https://github.com/spmallick/learnopencv/tree/master/PyTorch-Mask-RCNN>
-- blog(Satya Mallick)("Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)"): <https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c>
-- github(Satya Mallick)("Mask-RCNN"): <https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN>
-
-## RetinaNet
-**Focal Loss for Dense Object Detection**
-- intro: ICCV 2017 Best student paper award. Facebook AI Research
-- keywords: RetinaNet
-- arxiv: <https://arxiv.org/abs/1708.02002>
-
-## FPN
-**Feature Pyramid Networks for Object Detection**
-- intro: Facebook AI Research
-- arxiv: <https://arxiv.org/abs/1612.03144>
-
 ## SPP-Net
 **Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**
 - intro: ECCV 2014 / TPAMI 2015
 - arxiv: <http://arxiv.org/abs/1406.4729>
 - github: <https://github.com/ShaoqingRen/SPP_net>
 - notes: <http://zhangliliang.com/2014/09/13/paper-note-sppnet/>
+
+## Fast R-CNN
+**Fast R-CNN**
+- arxiv: <http://arxiv.org/abs/1504.08083>
+- slides: <http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf>
+- github: <https://github.com/rbgirshick/fast-rcnn>
+- github(COCO-branch): <https://github.com/rbgirshick/fast-rcnn/tree/coco>
+- webcam demo: <https://github.com/rbgirshick/fast-rcnn/pull/29>
+- notes: <http://zhangliliang.com/2015/05/17/paper-note-fast-rcnn/>
+- notes: <http://blog.csdn.net/linj_m/article/details/48930179>
+- github("Fast R-CNN in MXNet"): <https://github.com/precedenceguo/mx-rcnn>
+- github: <https://github.com/mahyarnajibi/fast-rcnn-torch>
+- github: <https://github.com/apple2373/chainer-simple-fast-rnn>
+- github: <https://github.com/zplizzi/tensorflow-fast-rcnn>
+
+**A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection**
+- intro: CVPR 2017
+- arxiv: <https://arxiv.org/abs/1704.03414>
+- paper: <http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf>
+- github(Caffe): <https://github.com/xiaolonw/adversarial-frcnn>
+
+## R-CNN
+**Rich feature hierarchies for accurate object detection and semantic segmentation**
+- intro: R-CNN
+- arxiv: <http://arxiv.org/abs/1311.2524>
+- supp: <http://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr-supp.pdf>
+- slides: <http://www.image-net.org/challenges/LSVRC/2013/slides/r-cnn-ilsvrc2013-workshop.pdf>
+- slides: <http://www.cs.berkeley.edu/~rbg/slides/rcnn-cvpr14-slides.pdf>
+- github: <https://github.com/rbgirshick/rcnn>
+- notes: <http://zhangliliang.com/2014/07/23/paper-note-rcnn/>
+- caffe-pr("Make R-CNN the Caffe detection example"): <https://github.com/BVLC/caffe/pull/482>
 
 ## Light-Head R-CNN
 **Light-Head R-CNN: In Defense of Two-Stage Object Detector**
