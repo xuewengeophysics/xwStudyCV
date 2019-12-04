@@ -3,6 +3,13 @@
 Awesome Object Tracking based on abhineet123 github: https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection
 
 
+# Survey
+
+**Deep Learning for Visual Tracking: A Comprehensive Survey**
+- intro: 2013-2019
+- arXiv: <https://arxiv.org/abs/1912.00535>
+
+
 <!-- No Heading Fix -->
 Collection of papers, datasets, code and other resources for object detection and tracking using deep learning
 <!-- MarkdownTOC -->
