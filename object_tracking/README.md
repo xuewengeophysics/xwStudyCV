@@ -9,6 +9,14 @@ Awesome Object Tracking based on abhineet123 github: https://github.com/abhineet
 - intro: 2013-2019
 - arXiv: <https://arxiv.org/abs/1912.00535>
 
+**Deep Learning in Video Multi-Object Tracking: A Survey**
+- intro: Multi-Object Tracking
+- arXiv: <hhttps://arxiv.org/abs/1907.12740>
+
+**A Review of Visual Trackers and Analysis of its Application to Mobile Robot**
+- intro: Mobile Robot
+- arXiv: <https://arxiv.org/abs/1910.09761>
+
 
 <!-- No Heading Fix -->
 Collection of papers, datasets, code and other resources for object detection and tracking using deep learning
