@@ -15,4 +15,5 @@
 =
 1 [Adrian Rosebrock的博客](https://www.pyimagesearch.com/)<br>
 2 [Satya Mallick的博客](https://www.learnopencv.com/)<br>
+3 [Jason Brownlee的博客](https://machinelearningmastery.com/)<br>
 
