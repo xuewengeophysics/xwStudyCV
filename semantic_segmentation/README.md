@@ -23,6 +23,13 @@
 
 - arXiv：<https://arxiv.org/abs/1704.06857>
 
+## BlendMask
+
+**BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation**
+
+- intro: Daniel Bolya, Chong Zhou, Fanyi Xiao, and Yong Jae Lee, 2019
+- YOLACT: <https://arxiv.org/abs/2001.00309>
+- github(期待作者开源)
 
 ## YOLACT/YOLACT++
 
