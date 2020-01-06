@@ -29,7 +29,7 @@
 
 - intro: Daniel Bolya, Chong Zhou, Fanyi Xiao, and Yong Jae Lee, 2019
 - YOLACT: <https://arxiv.org/abs/2001.00309>
-- github(期待作者开源)
+- github(期待作者开源): <https://github.com/Adelaide-AI-Group>
 
 ## YOLACT/YOLACT++
 
