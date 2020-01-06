@@ -27,8 +27,8 @@
 
 **BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation**
 
-- intro: Daniel Bolya, Chong Zhou, Fanyi Xiao, and Yong Jae Lee, 2019
-- YOLACT: <https://arxiv.org/abs/2001.00309>
+- intro: Hao Chen, Kunyang Sun, Zhi Tian, Chunhua Shen, Yongming Huang, Youliang Yan, 2020
+- arxiv: <https://arxiv.org/abs/2001.00309>
 - github(期待作者开源): <https://github.com/Adelaide-AI-Group>
 
 ## YOLACT/YOLACT++
