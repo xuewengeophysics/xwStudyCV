@@ -31,6 +31,14 @@
 - arxiv: <https://arxiv.org/abs/2001.00309>
 - github(期待作者开源): <https://github.com/Adelaide-AI-Group>
 
+## PointRend
+
+**PointRend: Image Segmentation as Rendering**
+
+- intro: Alexander Kirillov, Yuxin Wu, Kaiming He, Ross Girshick, FAIR, 2019
+- arxiv: <https://arxiv.org/abs/1912.08193v1>
+- github(Pytorch): <https://github.com/facebookresearch/detectron2/tree/master/projects>
+
 ## YOLACT/YOLACT++
 
 **YOLACT: Real-time Instance Segmentation**
