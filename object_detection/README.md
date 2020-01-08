@@ -135,10 +135,10 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn>
 - github(PyTorch--recommend): <https://github.com//jwyang/faster-rcnn.pytorch>
 - github(PyTorch): <https://github.com/chenyuntc/simple-faster-rcnn-pytorch>
+- github(Torch): <https://github.com/ruotianluo/pytorch-faster-rcnn>
 - github(mxnet): <https://github.com/ijkguo/mx-rcnn>
 - github: <https://github.com/mitmul/chainer-faster-rcnn>
-- github(Torch):: <https://github.com/andreaskoepf/faster-rcnn.torch>
-- github(Torch):: <https://github.com/ruotianluo/Faster-RCNN-Densecap-torch>
+- github(Torch): <https://github.com/andreaskoepf/faster-rcnn.torch>
 - github(TensorFlow): <https://github.com/smallcorgi/Faster-RCNN_TF>
 - github(TensorFlow): <https://github.com/CharlesShang/TFFRCNN>
 - github(C++ demo): <https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus>
