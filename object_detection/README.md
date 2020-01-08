@@ -133,8 +133,9 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github(official, Matlab): <https://github.com/ShaoqingRen/faster_rcnn>
 - github(Caffe): <https://github.com/rbgirshick/py-faster-rcnn>
 - github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn>
-- github(PyTorch--recommend): <https://github.com/chenyuntc/simple-faster-rcnn-pytorch>
 - github(PyTorch--recommend): <https://github.com//jwyang/faster-rcnn.pytorch>
+- github(PyTorch): <https://github.com/chenyuntc/simple-faster-rcnn-pytorch>
+- github(mxnet): <https://github.com/ijkguo/mx-rcnn>
 - github: <https://github.com/mitmul/chainer-faster-rcnn>
 - github(Torch):: <https://github.com/andreaskoepf/faster-rcnn.torch>
 - github(Torch):: <https://github.com/ruotianluo/Faster-RCNN-Densecap-torch>
