@@ -69,6 +69,11 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - intro: Submitted to IJCV 2018
 - arXiv: https://arxiv.org/abs/1809.02165
 
+## MatrixNets
+**MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection**
+- intro: Abdullah Rashwan, Rishav Agarwal, Agastya Kalra, Pascal Poupart, 2020
+- arxiv: https://arxiv.org/abs/2001.03194
+- github: https://github.com/arashwan/matrixnet
 
 ## FCOS
 **FCOS: Fully Convolutional One-Stage Object Detection**
