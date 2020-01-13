@@ -6,6 +6,7 @@ This is a list of awesome articles about object detection. If you want to read t
 
 # Papers&Codes
 
+- MatrixNets
 - FCOS
 - ConterNet
 - CornerNet
