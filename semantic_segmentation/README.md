@@ -2,6 +2,11 @@
 
 # Survey
 
+**Image Segmentation Using Deep Learning: A Survey**
+
+- intro: deep learning-based methods(2014-2019)
+- arXiv: <https://arxiv.org/abs/2001.05566>
+
 **A Survey on Deep Learning-based Architectures for Semantic Segmentation on 2D images**
 
 - intro: recent scientific developments in semantic segmentation, specifically on deep learning-based methods using 2D images
