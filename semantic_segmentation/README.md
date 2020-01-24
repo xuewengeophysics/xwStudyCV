@@ -34,7 +34,8 @@
 
 - intro: Hao Chen, Kunyang Sun, Zhi Tian, Chunhua Shen, Yongming Huang, Youliang Yan, 2020
 - arxiv: <https://arxiv.org/abs/2001.00309>
-- github(期待作者开源): <https://github.com/aim-uofa/adet>
+- github(即将开源): <https://github.com/aim-uofa/adet>
+- github(期待作者开源): <https://github.com/Adelaide-AI-Group>
 
 ## PointRend
 
