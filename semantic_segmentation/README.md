@@ -4,7 +4,7 @@
 
 **paperswithcode/task/semantic-segmentation**
 
-- arXiv: <https://paperswithcode.com/task/semantic-segmentation>
+- web: <https://paperswithcode.com/task/semantic-segmentation>
 
 **Image Segmentation Using Deep Learning: A Survey**
 
