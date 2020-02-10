@@ -47,7 +47,7 @@
 
 - intro: Alexander Kirillov, Yuxin Wu, Kaiming He, Ross Girshick, FAIR, 2019
 - arxiv: <https://arxiv.org/abs/1912.08193v1>
-- github(Pytorch): <https://github.com/facebookresearch/detectron2/tree/master/projects>
+- github(Pytorch): <https://github.com/facebookresearch/detectron2/tree/master/projects/PointRend>
 
 ## YOLACT/YOLACT++
 
