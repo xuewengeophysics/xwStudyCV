@@ -2,6 +2,7 @@
 
 0 代码
 =
+- paperswithcode: <https://paperswithcode.com/area/computer-vision>
 - facebookresearch/Detectron2:https://github.com/facebookresearch/Detectron2<br>
 - open-mmlab/mmdetection:https://github.com/open-mmlab/mmdetection<br>
 - dmlc/gluon-cv:https://github.com/dmlc/gluon-cv<br>
