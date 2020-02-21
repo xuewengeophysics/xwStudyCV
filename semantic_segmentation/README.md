@@ -32,6 +32,15 @@
 
 - arXiv：<https://arxiv.org/abs/1704.06857>
 
+## CenterMask2
+
+**CenterMask2 is an upgraded implementation on top of detectron2 beyond original CenterMask based on maskrcnn-benchmark**
+**CenterMask:Real-Time Anchor-Free Instance Segmentation**
+
+- intro: Youngwan Lee, Jongyoul Park, ETRI, 2019
+- arxiv: <https://arxiv.org/pdf/1911.06667>
+- github(Pytorch): <https://github.com/youngwanLEE/centermask2>
+
 ## BlendMask
 
 **BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation**
