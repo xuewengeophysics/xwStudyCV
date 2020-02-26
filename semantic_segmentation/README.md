@@ -32,15 +32,6 @@
 
 - arXiv：<https://arxiv.org/abs/1704.06857>
 
-## CenterMask2
-
-**CenterMask2 is an upgraded implementation on top of detectron2 beyond original CenterMask based on maskrcnn-benchmark**
-**CenterMask:Real-Time Anchor-Free Instance Segmentation**
-
-- intro: Youngwan Lee, Jongyoul Park, ETRI, 2019
-- arxiv: <https://arxiv.org/pdf/1911.06667>
-- github(Pytorch): <https://github.com/youngwanLEE/centermask2>
-
 ## BlendMask
 
 **BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation**
@@ -69,14 +60,34 @@
 - YOLACT++: <https://arxiv.org/abs/1912.06218>
 - github(Pytorch): <https://github.com/dbolya/yolact>
 
-## CenterMask
+## SOLO
+
+**SOLO: Segmenting Objects by Locations**
+
+- intro: Xinlong Wang, Tao Kong, Chunhua Shen, Yuning Jiang, Lei Li, 2019
+- YOLACT: <https://arxiv.org/abs/1912.04488>
+- github(Pytorch): <https://github.com/aim-uofa/adet>
+- github(unofficial): <https://github.com/Epiphqny/SOLO>
+
+## CenterMask2/CenterMask
+
+**CenterMask2 is an upgraded implementation on top of detectron2 beyond original CenterMask based on maskrcnn-benchmark**
 
 **CenterMask:Real-Time Anchor-Free Instance Segmentation**
 
 - intro: Youngwan Lee, Jongyoul Park, ETRI, 2019
 - arxiv: <https://arxiv.org/pdf/1911.06667>
+- github(Pytorch): <https://github.com/youngwanLEE/centermask2>
 - github(Pytorch): <https://github.com/youngwanLEE/CenterMask>
 - github(Pytorch): <https://github.com/CaoWGG/Mask-CenterNet>
+
+## PolarMask
+
+**PolarMask: Single Shot Instance Segmentation with Polar Representation**
+
+- intro: Enze Xie, Peize Sun, Xiaoge Song, Wenhai Wang, Ding Liang, Chunhua Shen, Ping Luo, 2019
+- arxiv: <https://arxiv.org/abs/1909.13226>
+- github(Pytorch): <https://github.com/xieenze/PolarMask>
 
 ## Mask R-CNN
 
