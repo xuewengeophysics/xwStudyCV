@@ -1,6 +1,6 @@
 # object detection
 
-Awesome Object Detection based on amusi github: https://github.com/amusi/awesome-object-detection.html
+Awesome Object Detection based on https://github.com/amusi/awesome-object-detection and https://github.com/hoya012/deep_learning_object_detection
 
 This is a list of awesome articles about object detection. If you want to read the paper according to time, you can refer to [Date](Date.md).
 
