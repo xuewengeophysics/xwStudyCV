@@ -32,7 +32,7 @@
 
 - arXiv：<https://arxiv.org/abs/1704.06857>
 
-## Conditional Convolutions
+## CondInst
 
 **Conditional Convolutions for Instance Segmentation**
 
