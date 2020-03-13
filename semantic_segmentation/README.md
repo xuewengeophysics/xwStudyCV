@@ -32,6 +32,14 @@
 
 - arXiv：<https://arxiv.org/abs/1704.06857>
 
+## Conditional Convolutions
+
+**Conditional Convolutions for Instance Segmentation**
+
+- intro: Zhi Tian, Chunhua Shen, Hao Chen, 2020
+- arxiv: <https://arxiv.org/abs/2003.05664>
+- github(即将开源): <https://github.com/aim-uofa/adet>
+
 ## BlendMask
 
 **BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation**
