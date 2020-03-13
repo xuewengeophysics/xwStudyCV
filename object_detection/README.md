@@ -83,6 +83,7 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 **FCOS: Fully Convolutional One-Stage Object Detection**
 - intro: anchor-free, ICCV 2019
 - arxiv: https://arxiv.org/abs/1904.01355
+- github: https://github.com/aim-uofa/adet
 - github: https://github.com/tianzhi0549/FCOS/
 - github: https://github.com/yqyao/FCOS_PLUS
 
