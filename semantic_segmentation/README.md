@@ -73,7 +73,7 @@
 **SOLO: Segmenting Objects by Locations**
 
 - intro: Xinlong Wang, Tao Kong, Chunhua Shen, Yuning Jiang, Lei Li, 2019
-- YOLACT: <https://arxiv.org/abs/1912.04488>
+- SOLO: <https://arxiv.org/abs/1912.04488>
 - github(Pytorch): <https://github.com/aim-uofa/adet>
 - github(unofficial): <https://github.com/Epiphqny/SOLO>
 
