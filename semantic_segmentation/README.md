@@ -32,13 +32,22 @@
 
 - arXiv：<https://arxiv.org/abs/1704.06857>
 
+
+## MEInst
+
+**Mask Encoding for Single Shot Instance Segmentation**
+
+- intro: Rufeng Zhang, Zhi Tian, Chunhua Shen, Mingyu You, Youliang Yan, 2020
+- arxiv: <https://arxiv.org/abs/2003.11712>
+- github(即将开源): <https://github.com/aim-uofa/AdelaiDet>
+
 ## CondInst
 
 **Conditional Convolutions for Instance Segmentation**
 
 - intro: Zhi Tian, Chunhua Shen, Hao Chen, 2020
 - arxiv: <https://arxiv.org/abs/2003.05664>
-- github(即将开源): <https://github.com/aim-uofa/adet>
+- github(即将开源): <https://github.com/aim-uofa/AdelaiDet>
 
 ## BlendMask
 
@@ -46,7 +55,7 @@
 
 - intro: Hao Chen, Kunyang Sun, Zhi Tian, Chunhua Shen, Yongming Huang, Youliang Yan, 2020
 - arxiv: <https://arxiv.org/abs/2001.00309>
-- github(即将开源): <https://github.com/aim-uofa/adet>
+- github(即将开源): <https://github.com/aim-uofa/AdelaiDet>
 - github(期待作者开源): <https://github.com/Adelaide-AI-Group>
 
 ## PointRend
@@ -59,22 +68,25 @@
 
 ## YOLACT/YOLACT++
 
-**YOLACT: Real-time Instance Segmentation**
-
 **YOLACT++: Better Real-time Instance Segmentation**
+
+**YOLACT: Real-time Instance Segmentation**
 
 - intro: Daniel Bolya, Chong Zhou, Fanyi Xiao, and Yong Jae Lee, 2019
 - YOLACT: <https://arxiv.org/abs/1904.02689>
 - YOLACT++: <https://arxiv.org/abs/1912.06218>
 - github(Pytorch): <https://github.com/dbolya/yolact>
 
-## SOLO
+## SOLO/SOLOv2
+
+**SOLOv2: Dynamic, Faster and Stronger**
 
 **SOLO: Segmenting Objects by Locations**
 
 - intro: Xinlong Wang, Tao Kong, Chunhua Shen, Yuning Jiang, Lei Li, 2019
 - SOLO: <https://arxiv.org/abs/1912.04488>
-- github(Pytorch): <https://github.com/aim-uofa/adet>
+- SOLOv2: <https://arxiv.org/abs/2003.10152>
+- github(Pytorch): <https://github.com/aim-uofa/AdelaiDet>
 - github(unofficial): <https://github.com/Epiphqny/SOLO>
 
 ## CenterMask2/CenterMask
@@ -87,7 +99,6 @@
 - arxiv: <https://arxiv.org/pdf/1911.06667>
 - github(Pytorch): <https://github.com/youngwanLEE/centermask2>
 - github(Pytorch): <https://github.com/youngwanLEE/CenterMask>
-- github(Pytorch): <https://github.com/CaoWGG/Mask-CenterNet>
 
 ## PolarMask
 
