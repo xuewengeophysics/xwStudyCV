@@ -4,6 +4,7 @@
 =
 - paperswithcode: <https://paperswithcode.com/area/computer-vision>
 - facebookresearch/Detectron2:https://github.com/facebookresearch/Detectron2<br>
+- adelaide/Chunhua Shen:https://github.com/aim-uofa/AdelaiDet<br>
 - open-mmlab/mmdetection:https://github.com/open-mmlab/mmdetection<br>
 - dmlc/gluon-cv:https://github.com/dmlc/gluon-cv<br>
 - TuSimple/simpledet:https://github.com/TuSimple/simpledet<br>
