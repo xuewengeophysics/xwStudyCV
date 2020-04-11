@@ -73,6 +73,14 @@ This is a list of awesome articles about object detection. If you want to read t
 
 Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 
+## EfficientDet
+**EfficientDet: Scalable and Efficient Object Detection**
+- intro: one-stage, CVPR 2020
+- arxiv: https://arxiv.org/abs/1911.09070
+- github: https://github.com/google/automl/tree/master/efficientdet
+- github: https://github.com/toandaominh1997/EfficientDet.Pytorch
+- github: https://github.com/xuannianz/EfficientDet
+
 ## MatrixNets
 **MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection**
 - intro: Abdullah Rashwan, Rishav Agarwal, Agastya Kalra, Pascal Poupart, 2020
