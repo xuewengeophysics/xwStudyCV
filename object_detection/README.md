@@ -79,7 +79,7 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - intro: one-stage, CVPR 2020
 - arxiv: https://arxiv.org/abs/1911.09070
 - github: https://github.com/google/automl/tree/master/efficientdet
-- github: https://github.com/toandaominh1997/EfficientDet.Pytorch
+- github: https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch
 - github: https://github.com/xuannianz/EfficientDet
 
 ## MatrixNets
