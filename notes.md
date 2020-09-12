@@ -4,7 +4,7 @@ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/m
 conda config --set show_channel_urls yes<br>
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pip -U<br>
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple<br>
-pip config set global.index-url https://pypi.douban.com/simple/
+pip config set global.index-url https://pypi.douban.com/simple/<br>
 conda env create -f env_info_file.yml<br>
 pip install torch==1.3.1+cu100 torchvision==0.4.2+cu100 -f https://download.pytorch.org/whl/torch_stable.html<br>
 conda search pytorch<br>
