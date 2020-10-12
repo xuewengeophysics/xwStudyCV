@@ -11,3 +11,4 @@ conda search pytorch<br>
 conda search pytorch | grep 100<br>
 conda install pytorch=1.3.1=cuda100py36h53c1284_0<br>
 ps aux | grep -i 文件名<br>
+import ipdb;ipdb.set_trace()<br>
