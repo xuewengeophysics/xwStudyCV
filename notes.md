@@ -1,3 +1,5 @@
+# 环境安装
+
 pycocotools: pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI<br>
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/<br>
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/<br>
@@ -10,6 +12,30 @@ pip install torch==1.3.1+cu100 torchvision==0.4.2+cu100 -f https://download.pyto
 conda search pytorch<br>
 conda search pytorch | grep 100<br>
 conda install pytorch=1.3.1=cuda100py36h53c1284_0<br>
+
+# Linux
+
 ps aux | grep -i 文件名<br>
-import ipdb;ipdb.set_trace()<br>
+
+
+
+# IDE
+
 vscode远程连接服务器的教程 https://zhuanlan.zhihu.com/p/105707830<br>
+
+
+
+# git
+
+## github上fork了别人的项目再同步更新别人的提交
+
++ 参考资料：https://blog.csdn.net/qq1332479771/article/details/56087333?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control
+
+```shell
+git remote -v 
+git remote add upstream git@github.com:xxx/xxx.git
+git fetch upstream
+git merge upstream/master
+git push 
+```
+
