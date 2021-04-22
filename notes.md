@@ -39,3 +39,21 @@ git merge upstream/master
 git push 
 ```
 
+
+
+
+
+[pip安装第三方包报错：There was a problem confirming the ssl certificate](https://www.cnblogs.com/yinhaiping/p/13375375.html)
+
+**创建pip配置pip.ini**
+
+（1）在系统目录C:\Users\用户\AppData\Roaming新建pip文件夹；
+
+（2）在pip文件夹下新建pip.ini文件，并写入如下配置：
+
+```python
+[global]
+index-url = http://mirrors.aliyun.com/pypi/simple/
+[install]
+trusted-host = mirrors.aliyun.com
+```
