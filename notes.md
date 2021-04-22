@@ -43,6 +43,10 @@ git push
 
 
 
+
+
+## Debug
+
 [pip安装第三方包报错：There was a problem confirming the ssl certificate](https://www.cnblogs.com/yinhaiping/p/13375375.html)
 
 **创建pip配置pip.ini**
@@ -57,3 +61,15 @@ index-url = http://mirrors.aliyun.com/pypi/simple/
 [install]
 trusted-host = mirrors.aliyun.com
 ```
+
+
+
+windows下pycocotools的安装及避坑
+
+```python
+# 若Cython未安装，请安装Cython
+pip install Cython
+
+pip install pycocotools
+```
+
