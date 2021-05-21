@@ -64,12 +64,23 @@ trusted-host = mirrors.aliyun.com
 
 
 
-windows下pycocotools的安装及避坑
++ windows下pycocotools的安装及避坑
 
 ```python
 # 若Cython未安装，请安装Cython
 pip install Cython
 
 pip install pycocotools
+```
+
+
+
++ import win32api     ImportError: DLL load failed while importing win32api: 找不到指定的模块
+
+[Jupyter Lab报错：ImportError: DLL load failed while importing win32api: 找不到指定的模块](https://y4ung.blog.csdn.net/article/details/112461640)
+
+```
+找到文件pywin32_postinstall.py，在D:\Anaconda3\envs\yolov5py38\Scripts目录下
+启动虚拟环境，执行python pywin32_postinstall.py -install 即可
 ```
 
