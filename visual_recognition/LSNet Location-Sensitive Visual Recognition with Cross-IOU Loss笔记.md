@@ -35,3 +35,6 @@ keypoints reflect the shape and pose of the objects but usually need the boundin
 
 
 
+## 参考资料
+
+1. [CVPR 2021 | Anchor-free新玩法！LSNet：统一目标检测，实例分割，姿态估计三种任务](https://blog.csdn.net/amusi1994/article/details/116280495)
